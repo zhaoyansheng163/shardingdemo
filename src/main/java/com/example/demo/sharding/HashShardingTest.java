@@ -3,7 +3,7 @@ package com.example.demo.sharding;
 import lombok.extern.slf4j.Slf4j;
 import lombok.var;
 @Slf4j
-public class testmain {
+public class HashShardingTest {
 
     public static void main(String[] args) {
 

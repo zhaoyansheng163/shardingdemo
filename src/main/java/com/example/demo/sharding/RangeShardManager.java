@@ -2,9 +2,6 @@ package com.example.demo.sharding;
 
 import lombok.var;
 
-import java.util.HashMap;
-import java.util.Map;
-
 public class RangeShardManager extends DataShardManager {
 
     @Override
